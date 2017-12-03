@@ -1,0 +1,14 @@
+{
+  "name": "ask-for-new-surface",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "firebase": "node_modules/.bin/firebase"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "firebase-tools": "^3.15.4"
+  }
+}
